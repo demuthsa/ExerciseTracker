@@ -18,7 +18,7 @@ function HomePage({ setExerciseToEdit }) {
 
     const onEdit = exercise => {
         setExerciseToEdit(exercise);
-        history.push("https://exercise-tracker290.herokuapp.com/edit-exercise");
+        history.push("/edit-exercise");
     }
 
     const loadExercises = async () => {
