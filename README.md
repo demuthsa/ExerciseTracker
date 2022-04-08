@@ -1,5 +1,6 @@
 # <center>**Exercise Tracker**</center>
 *Deployed using Heroku and Netlify*
+https://exercise-tracker290.netlify.app/
 # User Story
 As a user, I want to be able to view create and track daily workouts. I want to be able to log multiple exercises in a workout on a given day. I should also be able to track the name, reps, weight, unit of mass, and date exercise was performed.
 # Description
